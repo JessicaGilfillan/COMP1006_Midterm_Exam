@@ -12,7 +12,7 @@
 
 <body>
     <?php 
-        //add serverside validation here - ensure that all form fields are completed and that age and email are valid (i.e an integer for age and a valid email address)
+        //add serverside validation here - ensure that all form fields are completed and that age and email are valid (i.e an  integer for age and a valid email address)
 
 
     ?>
